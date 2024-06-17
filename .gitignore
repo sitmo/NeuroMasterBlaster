@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+
+data
+data.zip
+.DS_Store
