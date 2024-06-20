@@ -34,3 +34,5 @@
 data
 data.zip
 .DS_Store
+encoder
+decoder
