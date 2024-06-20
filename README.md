@@ -9,7 +9,7 @@ NeuroMasterBlaster is designed to compress neural data with minimal latency and 
 ## Features
 
 - **Fast Execution**: The algorithm is optimized for speed, ensuring minimal processing time. It compressed and decompresses 1 hour of neural activity data in 17 seconds.
-- **Online Streaming**: Capable of handling streaming data with zero delay. On the competition data the compression-decomppression latency is 0.3 microseconds. 
+- **Online Streaming**: Capable of handling streaming data with zero delay. On the competition data the compression-decompression latency is 0.3 microseconds. 
 - **Low Memory Footprint**: Designed to use minimal memory resources, making it suitable for deployment on devices with limited memory.
 - **Efficient C++ Implementation**: The core logic is implemented in C++ for optimal performance and resource management.
 
