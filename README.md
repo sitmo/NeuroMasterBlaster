@@ -1,6 +1,8 @@
 # NeuroMasterBlaster
 
 <h1 align='center'><img src='logo.png' width=300/></h1>
+
+
 Welcome to the NeuroMasterBlaster repository! This project is part of the Neuralink Compression Challenge, aimed at developing a lossless, streaming, zero-delay data compression algorithm specifically designed for Neuralink data. Our implementation is a highly efficient, low-memory, online streaming algorithm coded in C++. For more information about the competition, please visit the [Neuralink Compression Challenge page](https://content.neuralink.com/compression-challenge/README.html).
 
 ## Overview
