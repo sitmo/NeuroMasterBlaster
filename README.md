@@ -84,6 +84,14 @@ To run the encoder and decoder on the competition data, follow these steps:
 
 The `eval.sh` and `eval_osx.sh` scripts are designed to automate the process of encoding and decoding the provided dataset using the NeuroMasterBlaster algorithm. These scripts will invoke the necessary commands to process the data and evaluate the performance of the compression algorithm.
 
+After completion you should see domething like this:
+
+```bash
+All recordings successfully compressed.
+Original size (bytes): 146800526
+Compressed size (bytes): 44035376
+Compression ratio: 3.33
+```
 
 ## License
 
